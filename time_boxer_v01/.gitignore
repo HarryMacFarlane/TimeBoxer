@@ -1,4 +1,8 @@
 # Miscellaneous
+.env
+.gitignore
+firebase.json
+
 *.class
 *.log
 *.pyc
