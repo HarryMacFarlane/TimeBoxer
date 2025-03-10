@@ -1,6 +1,5 @@
 # Miscellaneous
 .env
-.gitignore
 firebase.json
 
 *.class
